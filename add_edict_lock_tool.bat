@@ -1,0 +1,1 @@
+python -B add_edict_lock_tool.py
