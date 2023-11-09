@@ -1,0 +1,21 @@
+= Stellarisの布告の修整用ツール
+:author: ERRORJP
+:toc: left
+:toc-title: 目次
+:sectnums:
+
+== これはなに？
+自作のStellaris Mod「布告は急には止まらない」用の布告定義作成用ツールです。
+
+== 使い方
+=== 前準備
+. Python3をインストールする +
+  3.4以降必須です。
+
+. settings.pyを編集する +
+  Stellarisのインストールフォルダがデフォルトと異なる場合は``EDICT_BASE_DIR``のパスを書き換えてください。
+
+=== ツールの実行方法
+. ``add_edict_lock_tool.bat``をダブルクリックする +
+  outputフォルダ以下にファイルが出力されていたら成功です。 +
+  布告の各定義の末尾に``edict_lock_in_months = 12``が出力されたファイルができあがるはずです。
