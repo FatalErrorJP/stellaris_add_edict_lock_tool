@@ -1,4 +1,4 @@
-= Stellarisの布告の修整用ツール
+= Stellarisの布告の修正用ツール
 :author: ERRORJP
 :toc: left
 :toc-title: 目次
